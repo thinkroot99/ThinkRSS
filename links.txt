@@ -1,0 +1,33 @@
+## YouTube
+# GNU Linux
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w "TechHut"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmRlQIXsEllAym3BUk1joEQ "WesleyAda"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCY_LG2PDPLgpzGDNaXM5iaA "Blake Hensley"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1s1OsWNYDFgbROPV-q5arg "Michael Horn"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA "Learn Linux TV"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCylGUf9BvQooEFjgdNudoQg "The Linux Cast"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "DistroTubw"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw "The Linux Experiment"
+
+# Arch Linux
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjT2hTD2u5aYrloCr1xtfjg "{ I L H A M }"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZ9MYdUu5whRZv0zrLFii3g "Diego Sandoval"
+
+# Tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtYg149E_wUGVmjGz-TgyNA "Titus Tech Talk"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ "Cris Titus Tech"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCf8uu3IE42b6hRUusufEH8g "Akamai Developer"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTNj4UtgopYu5T8ew8WZPuw "Cat and Andrew"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCP7I8JdA-r7Q9iH_apWv9Kg "EZ Tutorials"
+
+# Tech RO
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZJiWlzzBjojABV4vOra7ng "CipFlixTV"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNz5n8PoSGYSwkOH_SMnl2A "George Buchnici"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1moNGbiXeha-2TdfM5GphA "VlogTehnica"
+
+## Sit & Blog
+#Tech
+https://lifehacker.com/rss "Lifehackers"
+
+# GNU Linux
+https://ostechnix.com/feed/ "OSTechNix"
